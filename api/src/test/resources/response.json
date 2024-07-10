@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 25.9753,
+    "lat": 59.5725
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 289.46,
+    "feels_like": 289.16,
+    "temp_min": 289.46,
+    "temp_max": 289.46,
+    "pressure": 1025,
+    "humidity": 77,
+    "sea_level": 1025,
+    "grnd_level": 1020
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.95,
+    "deg": 122,
+    "gust": 8.96
+  },
+  "clouds": {
+    "all": 12
+  },
+  "dt": 1720641110,
+  "sys": {
+    "country": "EE",
+    "sunrise": 1720574119,
+    "sunset": 1720639636
+  },
+  "timezone": 10800,
+  "id": 587445,
+  "name": "Võsu",
+  "cod": 200
+}

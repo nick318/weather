@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  db-weather:
+    container_name: weather-postgres
+    image: postgres:15.6
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: weather
+      PGDATA: /data/postgres
+    ports:
+      - '5432:5432'

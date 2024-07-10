@@ -1,0 +1,43 @@
+version: '3.7'
+services:
+  db:
+    container_name: weather-postgres
+    image: postgres:15.6
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: weather
+      PGDATA: /data/postgres
+    volumes:
+      - docker-weather:/data/postgres
+    ports:
+      - '5432:5432'
+    networks:
+      - postgres
+  api:
+    container_name: api
+    build:
+      dockerfile: ./api/Dockerfile
+    environment:
+      JAVA_OPTS: -Xms100M -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10 -XX:+UseContainerSupport -XX:NativeMemoryTracking=summary
+      DB_HOST: db
+      API_KEY: ${API_KEY}
+    ports:
+      - '8080:8080'
+    networks:
+      - postgres
+    links:
+      - db
+  ui:
+    container_name: ui
+    build:
+      dockerfile: ./ui/Dockerfile
+    ports:
+      - '80:5000'
+    links:
+      - api
+
+volumes:
+  docker-weather:
+networks:
+  postgres:

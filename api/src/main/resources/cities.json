@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 587440,
+    "name": "Vändra",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.03611,
+      "lat": 58.64806
+    }
+  },
+  {
+    "id": 587445,
+    "name": "Võsu",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.975281,
+      "lat": 59.572498
+    }
+  },
+  {
+    "id": 587448,
+    "name": "Võrumaa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 27.049999,
+      "lat": 57.847221
+    }
+  },
+  {
+    "id": 587450,
+    "name": "Võru",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 27.01944,
+      "lat": 57.833889
+    }
+  },
+  {
+    "id": 587491,
+    "name": "Voka",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 27.581671,
+      "lat": 59.399719
+    }
+  },
+  {
+    "id": 587517,
+    "name": "Võhma",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.54833,
+      "lat": 58.62833
+    }
+  },
+  {
+    "id": 587571,
+    "name": "Vinni",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.43222,
+      "lat": 59.29583
+    }
+  },
+  {
+    "id": 587577,
+    "name": "Viljandi",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.59,
+      "lat": 58.363892
+    }
+  },
+  {
+    "id": 587590,
+    "name": "Viljandimaa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.6,
+      "lat": 58.400002
+    }
+  },
+  {
+    "id": 587620,
+    "name": "Viiratsi",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.63722,
+      "lat": 58.360001
+    }
+  },
+  {
+    "id": 587629,
+    "name": "Viimsi",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.84222,
+      "lat": 59.49667
+    }
+  },
+  {
+    "id": 587643,
+    "name": "Vihasoo",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.8025,
+      "lat": 59.559441
+    }
+  },
+  {
+    "id": 587699,
+    "name": "Vasalemma",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.290001,
+      "lat": 59.244171
+    }
+  },
+  {
+    "id": 587826,
+    "name": "Vana-Antsla",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.532221,
+      "lat": 57.866112
+    }
+  },
+  {
+    "id": 587839,
+    "name": "Valkla",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.318609,
+      "lat": 59.474442
+    }
+  },
+  {
+    "id": 587875,
+    "name": "Valgamaa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.033331,
+      "lat": 57.783329
+    }
+  },
+  {
+    "id": 587876,
+    "name": "Valga",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.0473,
+      "lat": 57.777809
+    }
+  },
+  {
+    "id": 587882,
+    "name": "Vaksali",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.83333,
+      "lat": 58.98333
+    }
+  },
+  {
+    "id": 587923,
+    "name": "Väike-Maarja",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.25,
+      "lat": 59.126389
+    }
+  },
+  {
+    "id": 587938,
+    "name": "Vaida",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.96583,
+      "lat": 59.290562
+    }
+  },
+  {
+    "id": 587977,
+    "name": "Väänikvere",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.398331,
+      "lat": 58.513611
+    }
+  },
+  {
+    "id": 587998,
+    "name": "Uuri",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.58028,
+      "lat": 59.48917
+    }
+  },
+  {
+    "id": 588006,
+    "name": "Uue-Virtsu",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 23.641939,
+      "lat": 58.637218
+    }
+  },
+  {
+    "id": 588015,
+    "name": "Uuemõisa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 23.589439,
+      "lat": 58.939442
+    }
+  },
+  {
+    "id": 588045,
+    "name": "Urge",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.65222,
+      "lat": 58.43639
+    }
+  },
+  {
+    "id": 588092,
+    "name": "Ülenurme",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.72517,
+      "lat": 58.3162
+    }
+  },
+  {
+    "id": 588153,
+    "name": "Türi",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.432501,
+      "lat": 58.808609
+    }
+  },
+  {
+    "id": 588157,
+    "name": "Turba",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.225,
+      "lat": 59.083061
+    }
+  },
+  {
+    "id": 588174,
+    "name": "Tudulinna",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 27.085279,
+      "lat": 59.03722
+    }
+  },
+  {
+    "id": 588204,
+    "name": "Tõrva",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.934999,
+      "lat": 58.002781
+    }
+  },
+  {
+    "id": 588209,
+    "name": "Torma",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.738331,
+      "lat": 58.812778
+    }
+  },
+  {
+    "id": 588223,
+    "name": "Tootsi",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.7925,
+      "lat": 58.57806
+    }
+  },
+  {
+    "id": 588264,
+    "name": "Toila",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 27.502501,
+      "lat": 59.423611
+    }
+  },
+  {
+    "id": 588301,
+    "name": "Tiheda",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.959999,
+      "lat": 58.791111
+    }
+  },
+  {
+    "id": 588326,
+    "name": "Tarvastu",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.886391,
+      "lat": 58.233059
+    }
+  },
+  {
+    "id": 588334,
+    "name": "Tartumaa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.72496,
+      "lat": 58.38065
+    }
+  },
+  {
+    "id": 588335,
+    "name": "Tartu",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.72509,
+      "lat": 58.380619
+    }
+  },
+  {
+    "id": 588348,
+    "name": "Tapa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.958611,
+      "lat": 59.260559
+    }
+  },
+  {
+    "id": 588365,
+    "name": "Tamsalu",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.11528,
+      "lat": 59.158611
+    }
+  },
+  {
+    "id": 588409,
+    "name": "Tallinn",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.753531,
+      "lat": 59.436958
+    }
+  },
+  {
+    "id": 588454,
+    "name": "Tabasalu",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.53306,
+      "lat": 59.430279
+    }
+  },
+  {
+    "id": 588531,
+    "name": "Suurejõe",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.096939,
+      "lat": 58.615829
+    }
+  },
+  {
+    "id": 588532,
+    "name": "Suure-Jaani",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.47056,
+      "lat": 58.53611
+    }
+  },
+  {
+    "id": 588539,
+    "name": "Sutlema",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.62361,
+      "lat": 59.173328
+    }
+  },
+  {
+    "id": 588572,
+    "name": "Sõrve",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.442499,
+      "lat": 59.426109
+    }
+  },
+  {
+    "id": 588627,
+    "name": "Sonda",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.83639,
+      "lat": 59.343609
+    }
+  },
+  {
+    "id": 588673,
+    "name": "Sindi",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.6675,
+      "lat": 58.400558
+    }
+  },
+  {
+    "id": 588686,
+    "name": "Sillamäe",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 27.754721,
+      "lat": 59.399719
+    }
+  },
+  {
+    "id": 588774,
+    "name": "Sauga",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.494961,
+      "lat": 58.4272
+    }
+  },
+  {
+    "id": 588780,
+    "name": "Saue",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.5525,
+      "lat": 59.320278
+    }
+  },
+  {
+    "id": 588792,
+    "name": "Särevere",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.428061,
+      "lat": 58.790001
+    }
+  },
+  {
+    "id": 588831,
+    "name": "Saku",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.65778,
+      "lat": 59.302219
+    }
+  },
+  {
+    "id": 588879,
+    "name": "Saaremaa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 22.466669,
+      "lat": 58.25
+    }
+  },
+  {
+    "id": 588922,
+    "name": "Rummu",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.799721,
+      "lat": 59.535278
+    }
+  },
+  {
+    "id": 589004,
+    "name": "Ristivälja",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 22.771391,
+      "lat": 58.850559
+    }
+  },
+  {
+    "id": 589024,
+    "name": "Riisipere",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.31056,
+      "lat": 59.11417
+    }
+  },
+  {
+    "id": 589054,
+    "name": "Reola",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.70722,
+      "lat": 58.29528
+    }
+  },
+  {
+    "id": 589115,
+    "name": "Raplamaa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.783331,
+      "lat": 59.01667
+    }
+  },
+  {
+    "id": 589116,
+    "name": "Rapla",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.79278,
+      "lat": 59.007221
+    }
+  },
+  {
+    "id": 589117,
+    "name": "Räpina",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 27.46361,
+      "lat": 58.098061
+    }
+  },
+  {
+    "id": 589124,
+    "name": "Rannamõisa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 23.783331,
+      "lat": 58.816669
+    }
+  },
+  {
+    "id": 589165,
+    "name": "Rakvere",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.355829,
+      "lat": 59.34639
+    }
+  },
+  {
+    "id": 589166,
+    "name": "Rakke",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.25444,
+      "lat": 58.98167
+    }
+  },
+  {
+    "id": 589174,
+    "name": "Raja",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.94972,
+      "lat": 58.796391
+    }
+  },
+  {
+    "id": 589223,
+    "name": "Raasiku",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.18306,
+      "lat": 59.36639
+    }
+  },
+  {
+    "id": 589253,
+    "name": "Püssi",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 27.049721,
+      "lat": 59.360001
+    }
+  },
+  {
+    "id": 589307,
+    "name": "Puhja",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.31472,
+      "lat": 58.341942
+    }
+  },
+  {
+    "id": 589336,
+    "name": "Pringi",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.79389,
+      "lat": 59.53944
+    }
+  },
+  {
+    "id": 589373,
+    "name": "Põlvamaa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 27.049999,
+      "lat": 58.049999
+    }
+  },
+  {
+    "id": 589375,
+    "name": "Põlva",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 27.069441,
+      "lat": 58.06028
+    }
+  },
+  {
+    "id": 589379,
+    "name": "Põltsamaa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.97056,
+      "lat": 58.6525
+    }
+  },
+  {
+    "id": 589531,
+    "name": "Peetri",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.81333,
+      "lat": 59.394169
+    }
+  },
+  {
+    "id": 589576,
+    "name": "Pärnumaa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.533331,
+      "lat": 58.400002
+    }
+  },
+  {
+    "id": 589578,
+    "name": "Pärnu-Jaagupi",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.506889,
+      "lat": 58.610519
+    }
+  },
+  {
+    "id": 589580,
+    "name": "Pärnu",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.49711,
+      "lat": 58.38588
+    }
+  },
+  {
+    "id": 589663,
+    "name": "Paldiski",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.053061,
+      "lat": 59.35667
+    }
+  },
+  {
+    "id": 589703,
+    "name": "Paikuse",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.634439,
+      "lat": 58.379169
+    }
+  },
+  {
+    "id": 589709,
+    "name": "Paide",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.55722,
+      "lat": 58.885559
+    }
+  },
+  {
+    "id": 589741,
+    "name": "Padise",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.14056,
+      "lat": 59.23111
+    }
+  },
+  {
+    "id": 589782,
+    "name": "Otepää",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.49667,
+      "lat": 58.058331
+    }
+  },
+  {
+    "id": 589796,
+    "name": "Orissaare",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 23.082621,
+      "lat": 58.55917
+    }
+  },
+  {
+    "id": 589922,
+    "name": "Karksi-Nuia",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.56278,
+      "lat": 58.103329
+    }
+  },
+  {
+    "id": 589933,
+    "name": "Nõo",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.5375,
+      "lat": 58.275558
+    }
+  },
+  {
+    "id": 589947,
+    "name": "Nõmme",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.67804,
+      "lat": 59.376411
+    }
+  },
+  {
+    "id": 590004,
+    "name": "Nehatu",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.92194,
+      "lat": 59.442219
+    }
+  },
+  {
+    "id": 590030,
+    "name": "Narva-Jõesuu",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 28.040831,
+      "lat": 59.458889
+    }
+  },
+  {
+    "id": 590031,
+    "name": "Narva",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 28.190281,
+      "lat": 59.37722
+    }
+  },
+  {
+    "id": 590054,
+    "name": "Muusika",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.47056,
+      "lat": 59.216671
+    }
+  },
+  {
+    "id": 590067,
+    "name": "Mustvee",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.93972,
+      "lat": 58.84861
+    }
+  },
+  {
+    "id": 590186,
+    "name": "Mõisaküla",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.18639,
+      "lat": 58.09222
+    }
+  },
+  {
+    "id": 590322,
+    "name": "Märjamaa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.430559,
+      "lat": 58.903889
+    }
+  },
+  {
+    "id": 590342,
+    "name": "Männiku",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.682779,
+      "lat": 59.34333
+    }
+  },
+  {
+    "id": 590385,
+    "name": "Mägise",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.738331,
+      "lat": 59.137218
+    }
+  },
+  {
+    "id": 590397,
+    "name": "Mäetaguse",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 27.272221,
+      "lat": 59.229721
+    }
+  },
+  {
+    "id": 590447,
+    "name": "Maardu",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.025,
+      "lat": 59.476669
+    }
+  },
+  {
+    "id": 590457,
+    "name": "Määltse",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 22.76,
+      "lat": 58.852779
+    }
+  },
+  {
+    "id": 590468,
+    "name": "Luunja",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 26.880831,
+      "lat": 58.355831
+    }
+  },
+  {
+    "id": 590497,
+    "name": "Lüganuse",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 27.030279,
+      "lat": 59.380562
+    }
+  },
+  {
+    "id": 590537,
+    "name": "Loo",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.94833,
+      "lat": 59.43639
+    }
+  },
+  {
+    "id": 590552,
+    "name": "Loksa",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 25.72139,
+      "lat": 59.576389
+    }
+  }
+]

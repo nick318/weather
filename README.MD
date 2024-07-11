@@ -1,6 +1,6 @@
 ### Start the app in docker-compose
 - Put your weather API key in `.env` file in the project root
-- Run ```docker compose -f api-db-ui-yml up```
+- Run ```docker compose -f api-db-ui.yml up```
 
 
 ### UI
